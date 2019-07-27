@@ -1,0 +1,19 @@
+{
+    "name": "kingga/laravel-migrations",
+    "description": "Some classes which help with migrations, e.g. changing the columns id column from unsigned integer to unsigned big integer along with foreign keys.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Isaac Skelton",
+            "email": "contact@isaacskelton.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Kingga\\LaravelMigrations\\": "src/"
+        }
+    }
+}
