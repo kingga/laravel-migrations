@@ -1,5 +1,5 @@
 # Laravel Migrations
-Some classes which help with migrations, e.g. changing the columns id column from unsigned integer to unsigned big integer along with foreign keys.
+Some classes which help with migrations, e.g. changing the id column from unsigned integer to unsigned big integer along with foreign keys.
 
 ## Installation
 1. `composer require kingga/laravel-migrations`
